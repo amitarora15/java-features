@@ -1,0 +1,3 @@
+rootProject.name = 'java8'
+include 'com.hello'
+
